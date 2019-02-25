@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardUseCompatPadding="true"
+    app:cardElevation="3dp"
+    app:cardCornerRadius="3dp"
+    >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp">
+        <TextView
+            android:id="@+id/modelTitleTv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+android:text="Title"
+            android:layout_margin="5dp"
+            android:textColor="@color/cardview_dark_background"
+            />
+        <ImageView
+            android:id="@+id/modelImageIv"
+            android:layout_width="400dp"
+            android:layout_height="200dp"
+            android:layout_below="@id/modelTitleTv"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="5dp"
+            android:src="@color/cardview_dark_background"/>
+        <TextView
+            android:id="@+id/modelDescrTv"
+            android:layout_below="@id/modelImageIv"
+            android:layout_width="match_parent"
+            android:textSize="15sp"
+            android:layout_margin="5dp"
+            android:layout_height="wrap_content"
+            />
+        <TextView
+            android:id="@+id/modelVenueTv"
+            android:layout_below="@id/modelDescrTv"
+            android:layout_width="match_parent"
+            android:textSize="15sp"
+            android:layout_margin="5dp"
+            android:layout_height="wrap_content"
+            />
+        <TextView
+            android:id="@+id/modelDayTv"
+            android:layout_below="@id/modelVenueTv"
+            android:layout_width="match_parent"
+            android:textSize="15sp"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            />
+        <TextView
+            android:id="@+id/modelTypeTv"
+            android:layout_below="@id/modelDayTv"
+            android:layout_width="match_parent"
+            android:textSize="15sp"
+            android:layout_margin="5dp"
+            android:layout_height="wrap_content"
+            />
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>
