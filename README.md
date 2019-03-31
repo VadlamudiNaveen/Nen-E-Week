@@ -7,7 +7,7 @@ Search bar is present where you Can search for Events Going on in College...
 
 # Screen Shot from the Application ..
 Event preview 
-![](images/)
+![](images/idea-3-1.png)
 
 
 
