@@ -25,7 +25,7 @@ Event information</br>
 4 : it uses mvc type appproach to pull the data and present on the screen ... <br/>
 5 : hardcoded the data ih the object of the adapter class data to be passed on but should populate the data using the database 
 as it is the best practise.. <br/>
-6 : used the authetication of the inbuilt methods for chechking of the strings which it takes from the user as input ... <br/>
+6 : used the authetication of the inbuilt methods for checking of the strings which it takes from the user as input ... <br/>
 7 : only takes input of the username as email only but not as any other format... <br/>
 8 : finally it is the basic one having used multiple concepts but i would likke to add more functionality in future...like using firebase,notifications,etc... <br/>
 
