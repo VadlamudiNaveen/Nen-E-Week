@@ -8,12 +8,14 @@ and Features are LightWeight..</br>
 3 :Has a login page for authentication...</br>
 
 # Screen Shot from the Application ..
-Event preview 
+Event preview </br>
+</br>
 ![](images/idea-3-1.png)
 
 
 
-Event information
+Event information</br>
+</br>
 ![](images/event-info-1.png)
 
 
