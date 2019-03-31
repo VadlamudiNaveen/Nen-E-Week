@@ -12,5 +12,5 @@ Event preview
 
 
 Event information
-![](images/event-info.png)
+![](images/event-info-1.png)
 
