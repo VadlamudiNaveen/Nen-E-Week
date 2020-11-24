@@ -27,5 +27,5 @@ Event information</br>
 as it is the best practise.. <br/>
 6 : Used the authetication of the inbuilt methods for checking of the strings which it takes from the user as input ... <br/>
 7 : Only takes input of the username as email only but not as any other format... <br/>
-8 : Finally it is the basic one having used multiple concepts but i would likke to add more functionality in future...like using firebase,notifications,etc... <br/>
+8 : Finally it is the basic one having used multiple concepts but i would like to add more functionality in future...like using firebase,notifications,etc... <br/>
 
